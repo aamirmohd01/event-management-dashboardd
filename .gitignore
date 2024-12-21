@@ -5,6 +5,18 @@
 /.pnp
 .pnp.js
 
+# Node modules
+/backend/node_modules
+/frontend/node_modules
+
+# Build directories
+/frontend/build
+
+# Environment variables
+/backend/.env
+/frontend/.env
+
+
 # testing
 /coverage
 
